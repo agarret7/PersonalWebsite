@@ -1,0 +1,16 @@
+How Nanobots Will Change Medicine
+23rd January 2014
+
+Here's an interesting Ted Talk on the applicability of nanobots. Surprisingly, the speaker, Ido Bachelet, has actually created nanobots with programmable abilities from DNA.
+
+<div class="scalable scalable-16-9">
+  <div class="scalable-content">
+    <iframe src="https://www.youtube.com/embed/BXLYJSSdXFw" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
+It really is exciting to see actual applications of nanotechnology in practice. While the current models are made of DNA, allowing for larger-scale manipulation of the small, perhaps in the future they will be made of even smaller and more accurately controlled materials. Regardless, it certainly proves the concept that we can have micro-scale machines which preform a rudimentary set of programmed functions that are inserted through the physical structure of the nanobot.
+
+Already this technology allows for a wide range of applications within the body. It may not have the manipulability of future generations of nanomachines, but it certainly is a brightening prospect. Regardless of future technologies, I'm looking forward to clinical applications of this existing technology.
+
+CATEGORIES: Future Tech, Future Speculation, Transhumanism, Ancient Posts

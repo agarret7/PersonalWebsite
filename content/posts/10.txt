@@ -1,0 +1,10 @@
+Avegant Glyph is a New VR Headset
+2nd February 2014
+
+This just in: I just found out about a VR headset called the <a href="https://www.avegant.com/">Avegant Glyph</a>. It provides it's virtual imaging technology through the use of a technology called <a href="https://en.wikipedia.org/wiki/Virtual_retinal_display">Virtual Retinal Display</a>. Although providing a slightly less wide FOV than the <a href="https://www.oculus.com/">Oculus Rift</a>, it supposedly gives twice the definition with little to no eye strain because of the inherent nature of the technology which uses reflective light.
+
+This is a beautiful example of the exponential growth of technology. A single concept is all that is needed for a large-scale development to emerge for any technology. Look at <a href="https://www.google.com/glass/start/">Google Glass</a>, and you can see a specific type of technology emerging - in this case, it's augmented reality. Now look at the variety of <a href="http://readwrite.com/2013/10/30/five-face-saving-alternatives-to-google-glass/#awesm=~ouLjCHa4YYgswx">emerging competitors</a> to the technology; all of them are varieties of the Google technology.
+
+This device is just the next evolution of technologies like the Oculus Rift. Although sporting a price tag of $500, it certainly is just another example of how virtual reality really is becoming prevalent. I'm incredibly excited to see what new software will be developed with these tools, and also what hardware will be inspired from these types of devices.
+
+CATEGORIES: Future Tech, Future Speculation, Transhumanism, Ancient Posts

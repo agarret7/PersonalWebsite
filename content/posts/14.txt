@@ -1,0 +1,44 @@
+Undeniable Proof of God?
+22nd August 2016
+
+On Quora, an individual asked "What would atheists do if God had shown undeniable proof that He is real?" This led me to the rejection of the premise that any piece of evidence can be used to argue for the existence of God. Only through faith can one accept the premise of God.
+
+To argue this, we need to appeal to some basic facts about probability theory, and with a help of a slightly more general form of Occam's Razor. Given these tools, we should be able to argue sufficiently that any evidence for God is in fact stronger evidence for a <i>different</i> entity, that is not omnipotent, but rather very powerful, perhaps inconceivably compared to humans.
+
+I run my life on establishing probabilities of unknowns based on a heuristic called Occam’s Razor, which says that among the choice of complicated hypotheses that explain the data, the most likely one tends to be the simplest. Since “simplest” is often times a subjective definition, it’s good idea for us to pick a definition. Ray Solomonoff developed a <a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">theory of inductive inference</a> which served as a mathematically foramlized version of Occam's razor. The jist of it is as follows; there exists a probability distribution over the infinite set of computable theories which perfectly describe previous observation. Because the sum of probability must equal one, the probabilities must roughly decrease for longer programs. It's a simple statement on the convergence of the sum of probabilities. While it does not preclude very long programs, it indicates almost all theories have a very small probability, and almost all theories are incredibly long.
+
+God is a very very big and messy thing, that has this very messy concept called omnipotence. Omnipotence is a very strange concept in that it indicates a form of non-determinism (and non-compatibility), which really doesn't fit in with the universe as we know it. It suffices to ignore this though, and to simply establish God as a being with powers beyond any being in the universe.
+
+The reason that this is sufficient is because such a being would require a very large description in order to express, greater than the vast majority of conceivable explanations for an event. As a result, we're really <i>overshooting</i> the amount of information required to explain an observation. So naturally, we assign a lower probability to God as an explanation for any observation, because by God's omnipotence, we require a very large description.
+
+Now we come to your undeniable evidence that God exists. I want to establish an idea to encapsulate the general idea of what form this evidence might take; maybe a white bearded guy in a robe appears before us and says that he’s God, and (stealing from another answer) makes the Eiffel Tower disappear before our eyes. Is this not undeniably evidence that the omnipotent creator is standing right before us?
+
+Well, not really. Let’s think about this for a second. From the previous argument, we've established that generally we should tend to have a rather low prior probability for God's existence, because of the complexity of such a hypothesis when compared to alternatives. So, now we want to determine the probability that God exists <i>after</i> we see the white-bearded guy who makes the Eiffel Tower disappear. There’s a very well-established mathematical law for exactly this, called Bayes’ Rule. It says that
+
+\[ \mathcal{P}(H|E) = \frac{\mathcal{P}(E|H) \cdot \mathcal{P}(H)}{\mathcal{P}(E)} \]
+
+which says that the probability of your hypothesis given a new piece of evidence is equal to the probability that you make that observation assuming that your hypothesis is true, multiplied by the original probability of your hypothesis being true (your prior), all divided by the total probability of seeing that piece of evidence in the first place.
+
+An alternative and much clearer way of seeing what this implies is to say the following: the probability that a hypothesis is true given a piece of evidence <i>increases</i> if you're <i>more likely</i> to see that evidence if we lived in a universe where that hypothesis was absolutely true. If I hear a gun fire, my hypothesis that someone just got hurt is supported because if someone <i>did</i> get hurt, then I'm more likely to have heard a gunshot than if I lived in a universe where <i>nobody</i> got hurt.
+
+This can be a bit confusing, but if we bring it back to the hypothesis at hand, it may make a bit more sense. If we substitute in \(G\) for God, and let our big piece of evidence be \(E\) we get that
+
+\[ \mathcal{P}(G|E) = \frac{\mathcal{P}(E|H) \cdot \mathcal{P}(G)}{\mathcal{P}(E)} \]
+
+So the probability that God exists given our big piece of evidence is proportional to our prior probability that God exists, which is very small, so we’re going to need a very good piece of evidence to establish that God exists, which we have, right?
+
+Here’s the big issue: the probability of observing a bearded man calling himself God and making the Eiffel Tower disappear \(\mathcal{P}(E)\) is actually almost identical to the probability of making that observation if God existed \(\mathcal{P}(E|G)\)! To see why this is clear, think about how much more likely it is that an alien species with much greater powers than us (but hardly omnipotent) is using our religions to manipulate us into acting in a specific way. Thus probability that we see this piece of evidence is actually \(\mathcal{P}(E|G)/\mathcal{P}(E) \approx 1\)!
+
+To see once again how this makes sense, think of it this way; in a universe where God exists, are we really that much more likely to see the eiffel tower disappear? Perhaps, but if we instead lived in a unierse where malicious aliens encountered our species and wanted to manipulate us, it clearly is much more likely that we would see the same event. As a result, the evidence is more in support of said aliens than an omnipotent creator of the universe!
+
+But wait! You might say that your God likes to show themselves, and will always reveal their power if they exist. Thus \(\mathcal{P}(E|G) = 1\). Even though the Bible rather explicitly states that God should not be tested, and the whole religion of Christianity is very firmly rooted on the idea of faith, which I think already nails the chances of observing God (even if he existed) making the Eiffel Tower disappear as almost zero, I’ll allow the assumption to make my next point.
+
+We can all agree the chances of the probability of observing a bearded man calling himself God and making the Eiffel Tower disappear is very very small. But how small is it? I’d say it’s quite a few orders of magnitude smaller than my prior that an omnipotent omniscient creator exists. To get some idea of why that matters, if \(\mathcal{P}(E)=10^{−10}\), and \(\mathcal{P}(E)=10^{−20}\), then our new probability \(\mathcal{P}(G|E)=10^{−10}\). Much more likely relative to our old probability, but still almost impossible to believe. On the other hand, I’m almost certain now that aliens exist and maliciously want to get us to worship them.
+
+We might try to pick more and more ridiculous pieces of evidence to get us to believe that God exists, but no matter what our senses tell us, it’s much more likely aliens would stick us in a virtual reality simulator and delude us than an omnipotent being existing and coming down to talk to us. Maybe there is some way we could change our biology to make us immune to delusions of this nature, but as humans, we are too easily fooled by tricks and simulations to be confident that the bearded man is actually the omnipotent guy in the sky all those preachers have been talking about for millennia.
+
+So no matter what evidence we gather, our hypothesis that God exists always remains very very small, and we’re stuck! Perhaps it’s the problem with having incredibly unlikely hypotheses regarding omnipotence; there are much more plausible explanations that don’t require omnipotence. Of course, you could always try to argue that the prior should be higher, but you could also argue the prior of a floating teapot in between Earth and Mars should be higher as well. I suppose it’s an article of faith that Occam’s Razor is wrong in this case.
+
+Ultimately, this whole argument is a fancy way to say don't be too hasty to generalize. As humans, we like to extend things to what seems to be a natural conclusion. Of course initially when you see such a strong display of power, you are tempted to immediately conclude that the being in front of you is omnipotent, but when we do a bit of math, it becomes apparent that such a display is much more likely to be derived from something of much humbler origins.
+
+CATEGORIES: Atheism, Rationalism, Philosophy

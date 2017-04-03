@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+
+    <title>Austin Garrett</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="{rel_root_loc}/backend/style.css">
+
+    <!-- Script for converting LaTeX to MathML -->
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({{tex2jax: {{inlineMath: [['$','$'], ['\\(','\\)']]}}}});
+    </script>
+  </head>
+
+  <nav>
+    <ul>
+      <li><a class="name" href="{rel_root_loc}/home.html">Austin Garrett</a></li>
+      <li>
+        <div class="mobile">
+          <img src="{rel_root_loc}/backend/media/menu.png" onclick="myFunction()" class="dropbtn"></img>
+          <div id="myDropdown" class="dropdown-content">
+            <ul>
+              <li><a href="{rel_root_loc}/blog/index.html" class="{blog_active}">Blog</a></li>
+              <li><a href="{rel_root_loc}/GarrettResume.pdf">Resume</a></li>
+              <li><a href="{rel_root_loc}/contact.html" class="{contact_active}">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+        <script src="{rel_root_loc}/backend/dropdown.js"></script>
+      </li>
+      <li><a href="{rel_root_loc}/contact.html" class="{contact_active} main">Contact</a></li>
+      <li><a href="{rel_root_loc}/GarrettResume.pdf" class="main" target="_blank">Resume</a></li>
+      <li><a href="{rel_root_loc}/blog/index.html" class="{blog_active} main">Blog</a></li>
+    </ul>
+  </nav>
+
+  <body>
+
+    <!-- Here is our page's main content -->
+    <main>
+{main_flag}
+    </main>
+
+    <!-- And here is our main footer that is used across all the pages of our website -->
+    <footer>
+      <p>©Copyright 2017 by Austin Garrett</p>
+    </footer>
+  </body>
+</html>
