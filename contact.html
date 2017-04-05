@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+
+    <title>Austin Garrett</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="./backend/style.css">
+
+    <!-- Script for converting LaTeX to MathML -->
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+    </script>
+  </head>
+
+  <nav>
+    <ul>
+      <li><a class="name" href=".">Austin Garrett</a></li>
+      <li>
+        <div class="mobile">
+          <img src="./backend/media/menu.png" onclick="myFunction()" class="dropbtn"></img>
+          <div id="myDropdown" class="dropdown-content">
+            <ul>
+              <li><a href="./blog" class="">Blog</a></li>
+              <li><a href="./GarrettResume.pdf">Resume</a></li>
+              <li><a href="./contact.html" class="active">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+        <script src="./backend/dropdown.js"></script>
+      </li>
+      <li><a href="./contact.html" class="active main">Contact</a></li>
+      <li><a href="./GarrettResume.pdf" class="main" target="_blank">Resume</a></li>
+      <li><a href="./blog" class=" main">Blog</a></li>
+    </ul>
+  </nav>
+
+  <body>
+
+    <!-- Here is our page's main content -->
+    <main>
+      <article>
+        <h1>Contact</h1>
+        
+        <ul>
+        
+          <li><strong>E-mail:</strong> <a href="mailto:agarret7@mit.edu">agarret7@mit.edu</a></li>
+        
+          <li><strong>Phone:</strong> (623)-326-5102</li>
+        
+        </ul>
+        
+      </article>
+    </main>
+
+    <!-- And here is our main footer that is used across all the pages of our website -->
+    <footer>
+      <p>©Copyright 2017 by Austin Garrett</p>
+    </footer>
+  </body>
+</html>
